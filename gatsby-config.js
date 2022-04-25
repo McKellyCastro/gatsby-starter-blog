@@ -2,8 +2,12 @@ module.exports = {
   siteMetadata: {
     title: `Prometheus Productions`,
     author: {
-      name: `Prometheus`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Prometheus.`,
+      summary: `We're a team of marketers
+      who love storytelling.
+      We promote your brand through strategically
+      organized content with technical precision
+      and creative skill.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
